@@ -4,25 +4,25 @@
   <Entry
     Status="Untranslated">
   <Key>concept</Key>
-  <OldValue>concept</OldValue>
-  <NewValue>concept</NewValue>
+  <OldValue>概念</OldValue>
+  <NewValue>概念</NewValue>
 </Entry>
   <Entry
     Status="Untranslated">
   <Key>MobileConcept</Key>
-  <OldValue>MobileConcept</OldValue>
-  <NewValue>MobileConcept</NewValue>
+  <OldValue>モバイルコンセプト</OldValue>
+  <NewValue>モバイルコンセプト</NewValue>
 </Entry>
   <Entry
     Status="Untranslated">
   <Key>TabletConcept</Key>
-  <OldValue>TabletConcept</OldValue>
-  <NewValue>TabletConcept</NewValue>
+  <OldValue>タブレットコンセプト</OldValue>
+  <NewValue>タブレットコンセプト</NewValue>
 </Entry>
   <Entry
     Status="Untranslated">
   <Key>WebConcept</Key>
-  <OldValue>WebConcept</OldValue>
-  <NewValue>WebConcept</NewValue>
+  <OldValue>ウェブコンセプト</OldValue>
+  <NewValue>ウェブコンセプト</NewValue>
 </Entry>
 </StringMap>

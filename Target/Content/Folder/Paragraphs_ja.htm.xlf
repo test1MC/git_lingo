@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Paragraphs.htm"
@@ -53,7 +53,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">インデックス</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xhtml-madcap:concept-term"
         phase-name="pretrans"
@@ -64,17 +64,17 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">概念</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h1"
         phase-name="pretrans"><source>Root linked to topic - Paragraphs</source><seg-source><mrk
             mtype="seg"
             mid="1">Root linked to topic - Paragraphs</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">トピックにリンクされたルート - 段落</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source>This is a paragraph styles inline with <bpt
@@ -110,61 +110,76 @@
               id="6"
               ctype="x-subscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sub&gt;</bpt>subscript<ept
               id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sub&gt;</ept>.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">これは、太<bpt
+              id="2"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>字、<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>斜体、<bpt
+              id="3"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept><bpt
+              id="4"
+              ctype="underline" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;u&gt;</bpt>下線、<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/u&gt;</ept><bpt
+              id="5"
+              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>上付き文字、<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept><bpt
+              id="6"
+              ctype="x-subscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sub&gt;</bpt>下付き文字を<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sub&gt;</ept>含む段落スタイルをインラインで表示します。</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source>Bold paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">Bold paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">太字段落</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source>italic paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">italic paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">斜体段落</mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source>underlined paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">underlined paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">下線付き段落</mrk></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-p"
         phase-name="pretrans"><source>Red paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">Red paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">赤い段落</mrk></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>Yellow highlighted paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">Yellow highlighted paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">黄色の強調表示された段落</mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source><bpt
@@ -182,11 +197,17 @@
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff;"&gt;</bpt>Blue<ept
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>レッド<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #2e8b57;"&gt;</bpt><ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>グリーン<bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff;"&gt;</bpt>ブルー<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-p"
         phase-name="pretrans"><source><bpt
@@ -206,21 +227,28 @@
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>, <bpt
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff; text-decoration: underline;"&gt;</bpt>Underlined blue<ept
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000; font-weight: bold;"&gt;</bpt>太字<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>の<bpt
+              id="2"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i style="color: #228b22;"&gt;</bpt>赤、斜体<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>の<bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff; text-decoration: underline;"&gt;</bpt>緑、下線の青<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
         id="12"
         restype="x-xml-p"
         phase-name="pretrans"><source>Calibri font 14px paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">Calibri font 14px paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">カリブフォント 14px 段落</mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-p"
         phase-name="pretrans"><source>This paragraph has a word with <bpt
@@ -230,91 +258,93 @@
             mid="1">This paragraph has a word with <bpt
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="font-family: Calibri; font-size: 14pt;"&gt;</bpt>calibri<ept
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> font and sized 14 px</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">この段落には、カリブフォント<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="font-family: Calibri; font-size: 14pt;"&gt;</bpt><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>とサイズ 14 ピクセルの単語があります。</mrk></target></trans-unit><trans-unit
         id="14"
         restype="x-xml-p"
         phase-name="pretrans"><source>Bold paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">Bold paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">太字段落</mrk></target></trans-unit><trans-unit
         id="15"
         restype="x-xml-p"
         phase-name="pretrans"><source>italic paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">italic paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">斜体段落</mrk></target></trans-unit><trans-unit
         id="16"
         restype="x-xml-p"
         phase-name="pretrans"><source>underlined paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">underlined paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">下線付き段落</mrk></target></trans-unit><trans-unit
         id="17"
         restype="x-xml-p"
         phase-name="pretrans"><source>Red paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">Red paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">赤い段落</mrk></target></trans-unit><trans-unit
         id="18"
         restype="x-xml-p"
         phase-name="pretrans"><source>Yellow highlighted paragraph</source><seg-source><mrk
             mtype="seg"
             mid="1">Yellow highlighted paragraph</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">黄色の強調表示された段落</mrk></target></trans-unit><trans-unit
         id="19"
         restype="x-xml-p"
         phase-name="pretrans"><source>Left aligned</source><seg-source><mrk
             mtype="seg"
             mid="1">Left aligned</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">左揃え</mrk></target></trans-unit><trans-unit
         id="20"
         restype="x-xml-p"
         phase-name="pretrans"><source>Center aligned</source><seg-source><mrk
             mtype="seg"
             mid="1">Center aligned</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">中央揃え</mrk></target></trans-unit><trans-unit
         id="21"
         restype="x-xml-p"
         phase-name="pretrans"><source>Right aligned</source><seg-source><mrk
             mtype="seg"
             mid="1">Right aligned</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">右揃え</mrk></target></trans-unit><trans-unit
         id="22"
         restype="x-xml-p"
         phase-name="pretrans"><source>Variable <ph
@@ -322,10 +352,11 @@
             mtype="seg"
             mid="1">Variable <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Variables.CompanyName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">変数<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Variables.CompanyName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit></body>
   </file>
 </xliff>

@@ -4,25 +4,25 @@
   <Entry
     Status="Untranslated">
   <Key>Index</Key>
-  <OldValue>Index</OldValue>
-  <NewValue>Index</NewValue>
+  <OldValue>インデックス</OldValue>
+  <NewValue>インデックス</NewValue>
 </Entry>
   <Entry
     Status="Untranslated">
   <Key>MobileKW</Key>
-  <OldValue>MobileKW</OldValue>
-  <NewValue>MobileKW</NewValue>
+  <OldValue>モバイルKW</OldValue>
+  <NewValue>モバイルKW</NewValue>
 </Entry>
   <Entry
     Status="Untranslated">
   <Key>TabletKW</Key>
-  <OldValue>TabletKW</OldValue>
-  <NewValue>TabletKW</NewValue>
+  <OldValue>タブレットKW</OldValue>
+  <NewValue>タブレットKW</NewValue>
 </Entry>
   <Entry
     Status="Untranslated">
   <Key>WebKW</Key>
-  <OldValue>WebKW</OldValue>
-  <NewValue>WebKW</NewValue>
+  <OldValue>ウェブKW</OldValue>
+  <NewValue>ウェブKW</NewValue>
 </Entry>
 </StringMap>
