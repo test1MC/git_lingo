@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Paragraphs.htm"
+    source-language="en-us"
+    target-language="ar"
+    MadCap:file-filter=""
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="Paragraphs.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">20</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">2</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11"
+        tool-name="Lingo"
+        tool-version="11.0.7110.20625"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Index</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Index</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>concept</source><seg-source><mrk
+            mtype="seg"
+            mid="1">concept</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Root linked to topic - Paragraphs</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Root linked to topic - Paragraphs</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This is a paragraph styles inline with <bpt
+            id="2"
+            ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>bold<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>, <bpt
+            id="3"
+            ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>italic<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>, <bpt
+            id="4"
+            ctype="underline" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;u&gt;</bpt>underline<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/u&gt;</ept>, <bpt
+            id="5"
+            ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>superscript<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept> and <bpt
+            id="6"
+            ctype="x-subscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sub&gt;</bpt>subscript<ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sub&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is a paragraph styles inline with <bpt
+              id="2"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>bold<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>, <bpt
+              id="3"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>italic<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>, <bpt
+              id="4"
+              ctype="underline" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;u&gt;</bpt>underline<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/u&gt;</ept>, <bpt
+              id="5"
+              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>superscript<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept> and <bpt
+              id="6"
+              ctype="x-subscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sub&gt;</bpt>subscript<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sub&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Bold paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Bold paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>italic paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">italic paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>underlined paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">underlined paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Red paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Red paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Yellow highlighted paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Yellow highlighted paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>Red <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #2e8b57;"&gt;</bpt>Green <ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff;"&gt;</bpt>Blue<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>Red <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #2e8b57;"&gt;</bpt>Green <ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff;"&gt;</bpt>Blue<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000; font-weight: bold;"&gt;</bpt>Bold red<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, <bpt
+            id="2"
+            ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i style="color: #228b22;"&gt;</bpt>Italic Green<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>, <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff; text-decoration: underline;"&gt;</bpt>Underlined blue<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000; font-weight: bold;"&gt;</bpt>Bold red<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, <bpt
+              id="2"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i style="color: #228b22;"&gt;</bpt>Italic Green<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>, <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000ff; text-decoration: underline;"&gt;</bpt>Underlined blue<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Calibri font 14px paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Calibri font 14px paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This paragraph has a word with <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="font-family: Calibri; font-size: 14pt;"&gt;</bpt>calibri<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> font and sized 14 px</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This paragraph has a word with <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="font-family: Calibri; font-size: 14pt;"&gt;</bpt>calibri<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> font and sized 14 px</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Bold paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Bold paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>italic paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">italic paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>underlined paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">underlined paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Red paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Red paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Yellow highlighted paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Yellow highlighted paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Left aligned</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Left aligned</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Center aligned</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Center aligned</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Right aligned</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Right aligned</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Variable <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Variables.CompanyName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Variable <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Variables.CompanyName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

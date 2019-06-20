@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">MadCap Software</Variable>
+    <Variable Comment="" Name="PhoneNumber">858 123 4567</Variable>
+    <Variable Name="Web" Comment="" EvaluatedDefinition="Web variable">Web variable</Variable>
+    <Variable Name="Tablet" Comment="" EvaluatedDefinition="Tablet variable">Tablet variable</Variable>
+    <Variable Name="Mobile" Comment="" EvaluatedDefinition="Mobile variable">Mobile variable</Variable>
+</CatapultVariableSet>

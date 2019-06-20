@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent>
+        <MicroContentPhrase>砻קยด1ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด2ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด3ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>砻קยด4ตว融</xhtml:h1>
+                    <xhtml:p><xhtml:a xhtml:name="This"></xhtml:a>砻קยด5ตว融</xhtml:p>
+                    <xhtml:p xhtml:style="font-weight: bold;">砻קยด6ตว融</xhtml:p>
+                    <xhtml:p xhtml:style="font-style: italic;">砻קยด7ตว融</xhtml:p>
+                    <xhtml:p xhtml:style="text-decoration: underline;">砻קยด8ตว融</xhtml:p>
+                    <xhtml:p xhtml:style="color: #ff0000;">砻קยด9ตว融</xhtml:p>
+                    <xhtml:p xhtml:style="background-color: #ffff00;">砻קยด10ตว融</xhtml:p>
+                    <xhtml:p>砻קยด11ตว融</xhtml:p>
+                    <xhtml:p>砻קยด12ตว融</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p xhtml:style="font-family: Calibri;font-size: 14pt;">砻קยด13ตว融</xhtml:p>
+                    <xhtml:p>砻קยด14ตว融</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p xhtml:class="bold">砻קยด15ตว融</xhtml:p>
+                    <xhtml:p xhtml:class="italic">砻קยด16ตว融</xhtml:p>
+                    <xhtml:p xhtml:class="underline">砻קยด17ตว融</xhtml:p>
+                    <xhtml:p xhtml:class="red">砻קยด18ตว融</xhtml:p>
+                    <xhtml:p xhtml:class="yellowHighlight">砻קยด19ตว融</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p xhtml:style="text-align: left;">砻קยด20ตว融</xhtml:p>
+                    <xhtml:p xhtml:style="text-align: center;">砻קยด21ตว融</xhtml:p>
+                    <xhtml:p xhtml:style="text-align: right;">砻קยด22ตว融</xhtml:p>
+                    <xhtml:p>砻קยด23ตว融</xhtml:p>
+                    <xhtml:p>
+                        <MadCap:keyword xhtml:term="Index" />
+                        <MadCap:concept xhtml:term="concept" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>砻קยด24ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด25ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด26ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด27ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด28ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด29ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>砻קยด30ตว融</xhtml:h1>
+                    <xhtml:div>
+                        <xhtml:p>
+                            <MadCap:toggler xhtml:targets="01;02;03;04">砻קยด31ตว融</MadCap:toggler>
+                        </xhtml:p>
+                        <xhtml:p MadCap:targetName="01">砻קยด32ตว融</xhtml:p>
+                        <xhtml:table xhtml:style="border-left-style: solid;border-left-width: 1px;border-left-color: #8b0000;border-right-style: solid;border-right-width: 1px;border-right-color: #8b0000;border-top-style: solid;border-top-width: 1px;border-top-color: #8b0000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #8b0000;border-collapse: collapse;" MadCap:targetName="03">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>砻קยด33ตว融</xhtml:td>
+                                    <xhtml:td>砻קยด34ตว融</xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr>
+                                    <xhtml:td>砻קยด35ตว融</xhtml:td>
+                                    <xhtml:td>砻קยด36ตว融</xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                        <MadCap:dropDown MadCap:targetName="04">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>砻קยด37ตว融</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <xhtml:p>砻קยด38ตว融</xhtml:p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </xhtml:div>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:h3>砻קยด39ตว融</xhtml:h3>
+                    <xhtml:hr />
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <MadCap:dropDown>
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot>砻קยด40ตว融</MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <xhtml:p>砻קยด41ตว融</xhtml:p>
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot>砻קยด42ตว融</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <xhtml:p>砻קยด43ตว融</xhtml:p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead>砻קยด44ตว融</MadCap:expandingHead>
+                            <MadCap:expandingBody>砻קยด45ตว融</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <MadCap:popup>
+                            <MadCap:popupHead>砻קยด46ตว融</MadCap:popupHead>
+                            <MadCap:popupBody>砻קยด47ตว融</MadCap:popupBody>
+                        </MadCap:popup>
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:div xhtml:style="width: 200px; height: 200px;" xhtml:class="div">
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>砻קยด48ตว融</xhtml:p>
+                        <xhtml:p>砻קยด49ตว融</xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>砻קยด50ตว融</xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>砻קยด51ตว融</xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:div>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>砻קยด52ตว融</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>砻קยด53ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด54ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด55ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด56ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>砻קยด57ตว融<MadCap:keyword xhtml:term="lists" /><MadCap:concept xhtml:term="lists" /></xhtml:h1>
+                    <xhtml:h2>砻קยด58ตว融</xhtml:h2>
+                    <xhtml:ul>
+                        <xhtml:li>砻קยด59ตว融</xhtml:li>
+                        <xhtml:li>砻קยด60ตว融</xhtml:li>
+                        <xhtml:li>砻קยด61ตว融</xhtml:li>
+                        <xhtml:li>砻קยด62ตว融</xhtml:li>
+                    </xhtml:ul>
+                    <xhtml:h3>砻קยด63ตว融</xhtml:h3>
+                    <xhtml:ul xhtml:style="list-style-type: circle;">
+                        <xhtml:li>砻קยด64ตว融</xhtml:li>
+                        <xhtml:li>砻קยด65ตว融</xhtml:li>
+                        <xhtml:li>砻קยด66ตว融</xhtml:li>
+                        <xhtml:li>砻קยด67ตว融</xhtml:li>
+                    </xhtml:ul>
+                    <xhtml:h4>砻קยด68ตว融</xhtml:h4>
+                    <xhtml:ul xhtml:style="list-style-type: square;">
+                        <xhtml:li>砻קยด69ตว融</xhtml:li>
+                        <xhtml:li>砻קยด70ตว融</xhtml:li>
+                        <xhtml:li>砻קยด71ตว融</xhtml:li>
+                        <xhtml:li>砻קยด72ตว融</xhtml:li>
+                    </xhtml:ul>
+                    <xhtml:h5>砻קยด73ตว融</xhtml:h5>
+                    <xhtml:ol>
+                        <xhtml:li>砻קยด74ตว融</xhtml:li>
+                        <xhtml:li>砻קยด75ตว融</xhtml:li>
+                        <xhtml:li>砻קยด76ตว融</xhtml:li>
+                        <xhtml:li>砻קยด77ตว融</xhtml:li>
+                    </xhtml:ol>
+                    <xhtml:h6>砻קยด78ตว融</xhtml:h6>
+                    <xhtml:ol xhtml:style="list-style-type: lower-alpha;">
+                        <xhtml:li>砻קยด79ตว融</xhtml:li>
+                    </xhtml:ol><xhtml:pre xml:space="preserve">Custom list:</xhtml:pre>
+                    <xhtml:ul xhtml:style="list-style-type: lower-alpha;" xhtml:class="customList">
+                        <xhtml:li>砻קยด80ตว融</xhtml:li>
+                    </xhtml:ul>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

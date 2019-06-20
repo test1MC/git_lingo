@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Inline Remove Condition <MadCap:footnote style="mc-footnote-position: topic;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">My web footnote</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">My tablet footnote</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">My mobile footnote</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;">My <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">mobile</span> footnote</MadCap:footnote></h1>
+        <h3>Paragraphs</h3>
+        <p>Paragraph for <b MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">web</b><i MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">tablet</i><u MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">mobile</u> - condition on word</p>
+        <p> </p>
+        <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Paragraph for <b>web</b> - condition on block</p>
+        <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Paragraph for <i>tablet</i> - condition on block</p>
+        <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Paragraph for <u>mobile</u> - condition on block</p>
+        <p> </p>
+        <h3>Snippet below - each snippet block is conditioned according to the medium:</h3>
+        <MadCap:snippetBlock src="../Resources/Snippets/WebSnippet.flsnp" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+        <MadCap:snippetBlock src="../Resources/Snippets/TabletSnippet.flsnp" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+        <MadCap:snippetBlock src="../Resources/Snippets/MobileSnippet.flsnp" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+        <p> </p>
+        <h3>Snippet with conditioned images - web | Tablet | mobile</h3>
+        <MadCap:snippetBlock src="../Resources/Snippets/webTabletMobile.flsnp" />
+        <h3>Youtube videos conditions - web | Tablet | mobile:</h3>
+        <div class="NewRowClass1">
+            <div>
+                <p>
+                    <object title="Web screen" src="https://youtu.be/3qcW0yuqdP0" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                    </object>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <object title="Tablet screen" src="https://youtu.be/FeLvR7ljJ0k" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                    </object>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <object title="Mobile screen" src="https://youtu.be/KsT7154Q9hs" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                    </object>
+                </p>
+            </div>
+        </div>
+        <h3>QR codes - web | Tablet | mobile:</h3>
+        <div class="NewRowClass1">
+            <div>
+                <p>
+                    <MadCap:qrCode title="Web screen" alt="Web alt" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</MadCap:qrCode>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <MadCap:qrCode title="tablet screen" alt="tablet alt" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</MadCap:qrCode>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <MadCap:qrCode title="Mobile screen" alt="Mobile alt" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</MadCap:qrCode>
+                </p>
+            </div>
+        </div>
+        <h3>Slide show:</h3>
+        <MadCap:slideshow>
+            <MadCap:slide>
+                <h2>All three mediums</h2>
+                <p>In the 1st slide we have <MadCap:conditionalText MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">web</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">tablet </MadCap:conditionalText>and <MadCap:conditionalText MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">mobile </MadCap:conditionalText>text.</p>
+                <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web image<img src="../Resources/Images/01.PNG" /></p>
+                <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet image <img src="../Resources/Images/02.PNG" /></p>
+                <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile image <img src="../Resources/Images/03.PNG" /></p>
+                <p> </p>
+            </MadCap:slide>
+            <MadCap:slide MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <h2>Web slide</h2>
+                <p>Web slide Web slide Web slide Web slide Web slide </p>
+                <p>You can place almost any kind of content into a slide, including text, tables, snippets, images, multimedia, and more.</p>
+                <p> </p>
+            </MadCap:slide>
+            <MadCap:slide MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <h2>Tablet slide</h2>
+                <p>Tablet slide Tablet slide Tablet slide Tablet slide </p>
+                <p>You can place almost any kind of content into a slide, including text, tables, snippets, images, multimedia, and more.</p>
+            </MadCap:slide>
+            <MadCap:slide MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <h2>Mobile slide</h2>
+                <p>Mobile slide Mobile slide Mobile slide Mobile slide </p>
+                <p>You can place almost any kind of content into a slide, including text, tables, snippets, images, multimedia, and more.</p>
+            </MadCap:slide>
+        </MadCap:slideshow>
+        <h3>Tables</h3>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web table</h5>
+        <table style="width: 30%;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;border-collapse: collapse;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Web table 1</td>
+                    <td>Web table 2</td>
+                </tr>
+                <tr>
+                    <td>Web table 3</td>
+                    <td>Web table 4</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet table</h5>
+        <table style="border-collapse: collapse;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;width: 30%;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+            <col style="width: 213px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Tablet table 1</td>
+                    <td>Tablet table 2</td>
+                </tr>
+                <tr>
+                    <td>Tablet table 3</td>
+                    <td>Tablet table 4</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile table</h5>
+        <table style="border-collapse: collapse;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;width: 30%;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+            <col style="width: 213px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Mobile table 1</td>
+                    <td>Mobile table 2</td>
+                </tr>
+                <tr>
+                    <td>Mobile table 3</td>
+                    <td>Mobile table 4</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5>Table with different conditions</h5>
+        <table style="width: 100%;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;border-collapse: collapse;">
+            <col MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <col MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <col MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <col />
+            <tbody>
+                <tr>
+                    <td MadCap:conditions="">Conditioned web column</td>
+                    <td MadCap:conditions="">Conditioned tablet column</td>
+                    <td MadCap:conditions="">Conditioned mobile column</td>
+                    <td MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web conditioned cell</td>
+                </tr>
+                <tr>
+                    <td MadCap:conditions="">Conditioned web column</td>
+                    <td MadCap:conditions="">Conditioned tablet column</td>
+                    <td MadCap:conditions="">Conditioned mobile column</td>
+                    <td MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet conditioned cell</td>
+                </tr>
+                <tr>
+                    <td MadCap:conditions="">Conditioned web column</td>
+                    <td MadCap:conditions="">Conditioned tablet column</td>
+                    <td MadCap:conditions="">Conditioned mobile column</td>
+                    <td MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile conditioned cell</td>
+                </tr>
+                <tr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                    <td MadCap:conditions="">Conditioned web column / web row</td>
+                    <td MadCap:conditions="">Conditioned web row / tablet column</td>
+                    <td MadCap:conditions="">Conditioned web row / mobile column</td>
+                    <td MadCap:conditions="">Conditioned web row </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Hyperlinks</h3>
+        <p><a href="http://www.yahoo.com/" target="_blank" title="yahoo screen" alt="yahoo screen" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web Yahoo link</a> <a href="http://www.yahoo.com/" target="_blank" title="google screen" alt="yahoo scree" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet Google link</a> <a href="http://www.madcapsoftware.com/" target="_blank" title="madcap screen" alt="yahoo scree" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile MadCap link</a></p>
+        <h3>Xrefs</h3>
+        <p> </p>
+        <h3>Glossary term links</h3>
+        <p>
+            <MadCap:glossaryTerm glossTerm="Glossary.Term0" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">My Web Term</MadCap:glossaryTerm> <MadCap:glossaryTerm glossTerm="Glossary.Term1" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">My Tablet Term</MadCap:glossaryTerm> <MadCap:glossaryTerm glossTerm="Glossary.Term2" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">My Mobile Term</MadCap:glossaryTerm></p>
+        <h3>Variables</h3>
+        <p><MadCap:variable name="Variables.Web" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" /> <MadCap:variable name="Variables.Tablet" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" /> <MadCap:variable name="Variables.Mobile" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" /></p>
+        <h3>Togglers</h3>
+        <p>
+            <MadCap:toggler targets="webBody1" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Togger web hotspot-all hotspot conditioned</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="webBody1">toggler web body</p>
+        <p>
+            <MadCap:toggler targets="tabletBody1" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Togger tablet hotspot-all hotspot conditioned</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="tabletBody1">toggler tablet body</p>
+        <p>
+            <MadCap:toggler targets="mobileBody1" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Togger mobile hotspot-all hotspot conditioned</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="mobileBody1">toggler mobile body</p>
+        <p> </p>
+        <p>
+            <MadCap:toggler targets="webBody2">Togger <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">mobile</span> hotspot</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="webBody2">toggler <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">mobile</span> body</p>
+        <h3>Dropdowns</h3>
+        <h5>Whole dropdown element conditioned:</h5>
+        <MadCap:dropDown MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Web dropdown hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Web dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Tablet dropdown hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Tablet dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Mobile dropdown hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Mobile dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h5>Dropdown head conditioned:</h5>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web dropdown head</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Web dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet dropdown head</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Tablet dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile dropdown head</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Mobile dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h5>Mutated dropdown:</h5>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>This is the <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</span> Drop-down Hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>This is the <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</span> Drop-down text</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h3>Expanding text:</h3>
+        <h5>Whole expanding element conditioned:</h5>
+        <p>
+            <MadCap:expanding MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <MadCap:expandingHead>Web expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody>Web expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <MadCap:expandingHead>Tablet expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody>Tablet expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <MadCap:expandingHead>Mobile expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody>Mobile expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <h5>Mutated expanding:</h5>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead><span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</span> expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody><span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</span>expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <h3>Text popups:</h3>
+        <p>
+            <MadCap:popup MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <MadCap:popupHead>Web text popup</MadCap:popupHead>
+                <MadCap:popupBody>Web text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+            <MadCap:popup MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <MadCap:popupHead>Tablet text popup</MadCap:popupHead>
+                <MadCap:popupBody>Tablet text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+            <MadCap:popup MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <MadCap:popupHead>Mobile text popup</MadCap:popupHead>
+                <MadCap:popupBody>Mobile text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <h5>mutated text popup:</h5>
+        <p>
+            <MadCap:popup>
+                <MadCap:popupHead><span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</span> <span MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</span> text popup</MadCap:popupHead>
+                <MadCap:popupBody>text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <h3>Text Box:</h3>
+        <div style="width: 116px;height: 46px;background-color: #00ffff;border-left-style: solid;border-left-width: 1px;border-left-color: #00ffff;border-right-style: solid;border-right-width: 1px;border-right-color: #00ffff;border-top-style: solid;border-top-width: 1px;border-top-color: #00ffff;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #00ffff;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+            <p>Web text box</p>
+        </div>
+        <div style="width: 116px;height: 46px;border-left-style: solid;border-left-width: 1px;border-left-color: #ff6347;border-right-style: solid;border-right-width: 1px;border-right-color: #ff6347;border-top-style: solid;border-top-width: 1px;border-top-color: #ff6347;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ff6347;background-color: #fa8072;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+            <p>Tablet text box</p>
+        </div>
+        <div style="width: 116px;height: 46px;border-left-style: solid;border-left-width: 1px;border-left-color: #ffff00;border-right-style: solid;border-right-width: 1px;border-right-color: #ffff00;border-top-style: solid;border-top-width: 1px;border-top-color: #ffff00;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffff00;background-color: #ffff00;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+            <p>Mobile text box</p>
+        </div>
+        <h3>Rule</h3>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web horizontal line below here</h5>
+        <hr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" style="border-width: 3px; border-color:aqua" />
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet horizontal line below here</h5>
+        <hr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" style="border-width: 3px; border-color:salmon" />
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile horizontal line below here</h5>
+        <hr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" style="border-width: 3px; border-color:yellow" />
+        <h3>Related Topics Control: Web | Tablet | Mobile | All</h3>
+        <p>
+            <MadCap:relatedTopics MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web"> </MadCap:relatedTopics> <MadCap:relatedTopics MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet"> </MadCap:relatedTopics> <MadCap:relatedTopics MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile"> </MadCap:relatedTopics> <MadCap:relatedTopics> </MadCap:relatedTopics></p>
+        <h3>Concept link: Web | Tablet | Mobile | All</h3>
+        <p>
+            <MadCap:conceptLink term="MobileConcept" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" /> <MadCap:conceptLink term="TabletConcept" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" /> <MadCap:conceptLink term="MobileConcept" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" /> <MadCap:conceptLink term="WebConcept;TabletConcept;MobileConcept" /></p>
+        <h3>Keyword Link: Web | Tablet | Mobile | All</h3>
+        <p>
+            <MadCap:keywordLink term="WebKW" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" /> <MadCap:keywordLink term="TabletKW" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" /> <MadCap:keywordLink term="MobileKW" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" /> <MadCap:keywordLink term="WebKW;TabletKW;MobileKW" /></p>
+        <h3>Equations:</h3>
+        <p>
+            <MadCap:equation MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <mrow>
+                        <msub>
+                            <mi>web equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+            <MadCap:equation MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <mrow>
+                        <msub>
+                            <mi>tablet equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+            <MadCap:equation MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <mrow>
+                        <msub>
+                            <mi>mobile equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+        </p>
+        <h3>Scripts:</h3>
+        <p>
+            <script type="text/javascript" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">/*<![CDATA[*/document.write("web script")
+/*]]>*/</script>
+            <script type="text/javascript" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">/*<![CDATA[*/document.write("tablet script")/*]]>*/</script>
+            <script type="text/javascript" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">/*<![CDATA[*/document.write("mobile script")/*]]>*/</script>
+        </p>
+        <h3>
+            <MadCap:toggler targets="Proxies">Proxies:</MadCap:toggler>
+        </h3>
+        <div MadCap:targetName="Proxies">
+            <h5>breadcrumb </h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">web</h6>
+            <MadCap:breadcrumbsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:breadcrumbsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:breadcrumbsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>Topic toolbar</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <h5>TOC </h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>Mini TOC</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <MadCap:miniTocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:miniTocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>Glossary</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <MadCap:glossaryProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:glossaryProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:glossaryProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>Concepts</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <MadCap:conceptsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:conceptsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:conceptsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>List of </h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h1;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h2;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h3;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>Relationship</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <MadCap:relationshipsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:relationshipsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:relationshipsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>Menu</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">Web</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">Tablet</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">Mobile</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+        </div>
+    </body>
+</html>

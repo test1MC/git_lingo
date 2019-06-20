@@ -1,0 +1,1347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="TypedMicroContent.flmco"
+    source-language="en-us"
+    target-language="ar"
+    MadCap:file-filter=""
+    datatype="x-flmco">
+    <header>
+      <skl><external-file
+          href="TypedMicroContent.flmco.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">118</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11"
+        tool-name="Lingo"
+        tool-version="11.0.7110.20625"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What are paragraphs?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What are paragraphs?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>paragraphs</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">paragraphs</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>styles</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">styles</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-xhtml:h1"
+        phase-name="pretrans"><source>Root linked to topic - Paragraphs</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Root linked to topic - Paragraphs</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>This is a paragraph styles inline with <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>bold<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:b&gt;</ept>, <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:i xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>italic<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:i&gt;</ept>, <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:u xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>underline<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:u&gt;</ept>, <bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sup xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>superscript<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sup&gt;</ept> and <bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sub xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>subscript<ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sub&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">This is a paragraph styles inline with <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>bold<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:b&gt;</ept>, <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:i xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>italic<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:i&gt;</ept>, <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:u xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>underline<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:u&gt;</ept>, <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sup xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>superscript<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sup&gt;</ept> and <bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sub xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>subscript<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sub&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Bold paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Bold paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>italic paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">italic paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>underlined paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">underlined paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Red paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Red paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Yellow highlighted paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Yellow highlighted paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #ff0000;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Red <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #2e8b57;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Green <ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #0000ff;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Blue<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #ff0000;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Red <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #2e8b57;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Green <ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #0000ff;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Blue<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #ff0000; font-weight: bold;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Bold red<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept>, <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:i xhtml:style="color: #228b22;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Italic Green<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:i&gt;</ept>, <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #0000ff; text-decoration: underline;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Underlined blue<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #ff0000; font-weight: bold;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Bold red<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept>, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:i xhtml:style="color: #228b22;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Italic Green<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:i&gt;</ept>, <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="color: #0000ff; text-decoration: underline;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Underlined blue<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Calibri font 14px paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Calibri font 14px paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>This paragraph has a word with <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="font-family: Calibri; font-size: 14pt;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>calibri<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept> font and sized 14 px</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">This paragraph has a word with <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:span xhtml:style="font-family: Calibri; font-size: 14pt;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>calibri<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:span&gt;</ept> font and sized 14 px</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Bold paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Bold paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>italic paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">italic paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>underlined paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">underlined paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Red paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Red paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Yellow highlighted paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Yellow highlighted paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Left aligned</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Left aligned</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Center aligned</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Center aligned</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Right aligned</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Right aligned</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Variable <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable xhtml:name="Variables.CompanyName" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Variable <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable xhtml:name="Variables.CompanyName" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="24"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What are togglers?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What are togglers?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="25"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What are dropdowns?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What are dropdowns?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="26"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What are footnotes?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What are footnotes?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="27"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What are text popups?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What are text popups?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="28"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What is a text box?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What is a text box?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="29"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What is expanding text?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What is expanding text?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="30"
+        restype="x-xml-xhtml:h1"
+        phase-name="pretrans"><source>root - Togglers, dropdown, expanding, text popup, textbox, footnote</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">root - Togglers, dropdown, expanding, text popup, textbox, footnote</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="31"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Toggler head</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">Toggler head</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="32"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>This is a paragraph styles inline with <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>bold<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:b&gt;</ept>, <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:i xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>italic<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:i&gt;</ept>, <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:u xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>underline<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:u&gt;</ept>, <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sup xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>superscript<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sup&gt;</ept> and <bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sub xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>subscript<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sub&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">This is a paragraph styles inline with <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>bold<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:b&gt;</ept>, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:i xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>italic<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:i&gt;</ept>, <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:u xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>underline<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:u&gt;</ept>, <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sup xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>superscript<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sup&gt;</ept> and <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:sub xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>subscript<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:sub&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="33"
+        restype="x-xml-xhtml:td"
+        phase-name="pretrans"><source>one</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||||Default.ScreenOnly">one</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="34"
+        restype="x-xml-xhtml:td"
+        phase-name="pretrans"><source>two</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||||Default.ScreenOnly">two</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="35"
+        restype="x-xml-xhtml:td"
+        phase-name="pretrans"><source>three</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||||Default.ScreenOnly">three</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="36"
+        restype="x-xml-xhtml:td"
+        phase-name="pretrans"><source>four</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||||Default.ScreenOnly">four</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="37"
+        restype="x-xml-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Dropdown text</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||||Default.ScreenOnly">Dropdown text</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="38"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Here's the dropdown text body. It all belongs under a toggler Also, an <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>expanding text hotspot<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> here and here's the body of the expanding text. <ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||||Default.ScreenOnly">Here's the dropdown text body.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="|||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="|||||||Default.ScreenOnly">It all belongs under a toggler Also, an <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>expanding text hotspot<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> here and here's the body of the expanding text.</mrk><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:parentConditions="|||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:parentConditions="|||||||Default.ScreenOnly"><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="39"
+        restype="x-xml-xhtml:h3"
+        phase-name="pretrans"><source>Rule</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Rule</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="40"
+        restype="x-xml-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Drop down text hotspot</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Drop down text hotspot</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="41"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Gain insight into how your customers find and interact with your content with advanced analytics and reporting. Gather data, such as topic views, search keywords, search terms that yield no results, so you can measure and improve overall Help center performance. <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popup xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupHead&gt;</bpt>Text popup<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupHead&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupBody&gt;</bpt>Here's the text popup content. How should it appear in a micro content response? Should just expand I suppose. <ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupBody&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popup&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Gain insight into how your customers find and interact with your content with advanced analytics and reporting.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Gather data, such as topic views, search keywords, search terms that yield no results, so you can measure and improve overall Help center performance.</mrk><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:parentConditions="||||||Default.ScreenOnly"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popup xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupHead&gt;</bpt>Text popup<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupHead&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupBody&gt;</bpt>Here's the text popup content.</mrk><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:parentConditions="||||||Default.ScreenOnly">How should it appear in a micro content response?</mrk><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Should just expand I suppose.</mrk><mrk
+            mtype="protected"
+            mid="10"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="11"
+            MadCap:parentConditions="||||||Default.ScreenOnly"><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupBody&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popup&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="10"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="11"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="42"
+        restype="x-xml-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Sub Dropdown hotspot</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||||Default.ScreenOnly">Sub Dropdown hotspot</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="43"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Here's the dropdown text body. It all belongs under a toggler Also, an <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>expanding text hotspot<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> here and here's the body of the expanding text. <ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||||Default.ScreenOnly">Here's the dropdown text body.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="||||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="||||||||Default.ScreenOnly">It all belongs under a toggler Also, an <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>expanding text hotspot<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> here and here's the body of the expanding text.</mrk><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:parentConditions="||||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:parentConditions="||||||||Default.ScreenOnly"><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="44"
+        restype="x-xml-madcap:expandinghead"
+        phase-name="pretrans"><source>Expanding hotspot</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Expanding hotspot</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="45"
+        restype="x-xml-madcap:expandingbody"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popup xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupHead&gt;</bpt>Text popup<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupHead&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupBody&gt;</bpt>Here's the text popup content. How should it appear in a micro content response? Should just expand I suppose. <ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupBody&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popup&gt;</ept> Gain insight into how your customers find and interact with your content with advanced analytics and reporting. Gather data, such as topic views, search keywords, search terms that yield no results, so you can measure and improve overall Help center performance. <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>expanding text hotspot<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> here and here's the body of the expanding text. <ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||Default.ScreenOnly"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popup xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupHead&gt;</bpt>Text popup<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupHead&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupBody&gt;</bpt>Here's the text popup content.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="||||||Default.ScreenOnly">How should it appear in a micro content response?</mrk><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Should just expand I suppose.</mrk><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:parentConditions="||||||Default.ScreenOnly"><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupBody&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popup&gt;</ept> Gain insight into how your customers find and interact with your content with advanced analytics and reporting.</mrk><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Gather data, such as topic views, search keywords, search terms that yield no results, so you can measure and improve overall Help center performance.</mrk><mrk
+            mtype="protected"
+            mid="10"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="11"
+            MadCap:parentConditions="||||||Default.ScreenOnly"><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>expanding text hotspot<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> here and here's the body of the expanding text.</mrk><mrk
+            mtype="protected"
+            mid="12"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="13"
+            MadCap:parentConditions="||||||Default.ScreenOnly"><ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="10"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="11"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="12"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="13"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="46"
+        restype="x-xml-madcap:popuphead"
+        phase-name="pretrans"><source>Text popup</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Text popup</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="47"
+        restype="x-xml-madcap:popupbody"
+        phase-name="pretrans"><source>Here's the text popup content. How should it appear in a micro content response? Should just expand I suppose.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Here's the text popup content.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="||||||Default.ScreenOnly">How should it appear in a micro content response?</mrk><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:parentConditions="||||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:parentConditions="||||||Default.ScreenOnly">Should just expand I suppose.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="48"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Text box in here. How should it look in a respose?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">Text box in here.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="|||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="|||||Default.ScreenOnly">How should it look in a respose?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="49"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>I'm not sure</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">I'm not sure</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="50"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Let's see how it's gonna render.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">Let's see how it's gonna render.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="51"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Fin, the end. Bye!</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">Fin, the end.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="|||||Default.ScreenOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="|||||Default.ScreenOnly">Bye!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="52"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>Footnote</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Footnote</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="53"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>What are lists?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">What are lists?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="54"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>list</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">list</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="55"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>list types</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">list types</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="56"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>lists</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.ScreenOnly">lists</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="57"
+        restype="x-xml-xhtml:h1"
+        phase-name="pretrans"><source>root - lists</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">root - lists</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="58"
+        restype="x-xml-xhtml:h2"
+        phase-name="pretrans"><source>Bullet list:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Bullet list:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="59"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>one</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">one</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="60"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>two</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">two</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="61"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>three</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">three</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="62"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>four</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">four</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="63"
+        restype="x-xml-xhtml:h3"
+        phase-name="pretrans"><source>Circle bullet list:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Circle bullet list:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="64"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>one</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">one</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="65"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>two</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">two</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="66"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>three</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">three</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="67"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>four</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">four</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="68"
+        restype="x-xml-xhtml:h4"
+        phase-name="pretrans"><source>square bullet list:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">square bullet list:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="69"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>one</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">one</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="70"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>two</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">two</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="71"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>three</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">three</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="72"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>four</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">four</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="73"
+        restype="x-xml-xhtml:h5"
+        phase-name="pretrans"><source>Numbered list:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Numbered list:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="74"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>one</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">one</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="75"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>two</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">two</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="76"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>three</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">three</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="77"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>four</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">four</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="78"
+        restype="x-xml-xhtml:h6"
+        phase-name="pretrans"><source>Mixed list:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||||Default.ScreenOnly">Mixed list:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="79"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>One<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ol xhtml:style="list-style-type: upper-alpha;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;&lt;xhtml:li&gt;</bpt>One-a<bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ol xhtml:style="list-style-type: lower-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-c<bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ol xhtml:style="list-style-type: upper-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-d<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ol&gt;</ept><ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ol&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ol&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">One<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ol xhtml:style="list-style-type: upper-alpha;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;&lt;xhtml:li&gt;</bpt>One-a<bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ol xhtml:style="list-style-type: lower-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-c<bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ol xhtml:style="list-style-type: upper-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-d<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ol&gt;</ept><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ol&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ol&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="80"
+        restype="x-xml-xhtml:li"
+        phase-name="pretrans"><source>One<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ul xhtml:style="list-style-type: upper-alpha;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;&lt;xhtml:li&gt;</bpt>One-a<bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ul xhtml:style="list-style-type: lower-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-c<bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ul xhtml:style="list-style-type: upper-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-d<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ul&gt;</ept><ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ul&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||||Default.ScreenOnly">One<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ul xhtml:style="list-style-type: upper-alpha;" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;&lt;xhtml:li&gt;</bpt>One-a<bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ul xhtml:style="list-style-type: lower-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-c<bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:ul xhtml:style="list-style-type: upper-roman;"&gt;&lt;xhtml:li&gt;</bpt>One-d<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ul&gt;</ept><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ul&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:li&gt;&lt;/xhtml:ul&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

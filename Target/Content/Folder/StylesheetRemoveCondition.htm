@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Stylesheet Remove Condition <MadCap:footnote style="mc-footnote-position: topic;" class="Web">My web footnote</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;" class="Tablet">My tablet footnote</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;" class="Mobile">My mobile footnote</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;">My <span class="Web">web</span> <span class="Tablet">tablet</span> <span class="Mobile">mobile</span> footnote</MadCap:footnote></h1>
+        <h3>Paragraphs</h3>
+        <p>Paragraph for <b class="Web">web</b><i class="Tablet">tablet</i><u class="Mobile">mobile</u> - condition on word</p>
+        <p> </p>
+        <p class="Web">Paragraph for <b>web</b> - condition on block</p>
+        <p class="Tablet">Paragraph for <i>tablet</i> - condition on block</p>
+        <p class="Mobile">Paragraph for <u>mobile</u> - condition on block</p>
+        <p> </p>
+        <h3>Snippet below - each snippet block is conditioned according to the medium:</h3>
+        <MadCap:snippetBlock src="../Resources/Snippets/WebSnippet.flsnp" class="Web" />
+        <MadCap:snippetBlock src="../Resources/Snippets/TabletSnippet.flsnp" class="Tablet" />
+        <MadCap:snippetBlock src="../Resources/Snippets/MobileSnippet.flsnp" class="Mobile" />
+        <p> </p>
+        <h3>Snippet with conditioned images - web | Tablet | mobile</h3>
+        <MadCap:snippetBlock src="../Resources/Snippets/webTabletMobile.flsnp" />
+        <h3>Youtube videos conditions - web | Tablet | mobile:</h3>
+        <div class="NewRowClass1">
+            <div>
+                <p>
+                    <object title="Web screen" src="https://youtu.be/3qcW0yuqdP0" class="Web">
+                    </object>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <object title="Tablet screen" src="https://youtu.be/FeLvR7ljJ0k" class="Tablet">
+                    </object>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <object title="Mobile screen" src="https://youtu.be/KsT7154Q9hs" class="Mobile">
+                    </object>
+                </p>
+            </div>
+        </div>
+        <h3>QR codes - web | Tablet | mobile:</h3>
+        <div class="NewRowClass1">
+            <div>
+                <p>
+                    <MadCap:qrCode title="Web screen" alt="Web alt" class="Web">Web</MadCap:qrCode>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <MadCap:qrCode title="tablet screen" alt="tablet alt" class="Tablet">Tablet</MadCap:qrCode>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <MadCap:qrCode title="Mobile screen" alt="Mobile alt" class="Mobile">Mobile</MadCap:qrCode>
+                </p>
+            </div>
+        </div>
+        <h3>Slide show:</h3>
+        <MadCap:slideshow>
+            <MadCap:slide>
+                <h2>All three mediums</h2>
+                <p>In the 1st slide we have <MadCap:conditionalText class="Web">web</MadCap:conditionalText> <MadCap:conditionalText class="Tablet">tablet </MadCap:conditionalText>and <MadCap:conditionalText class="Mobile">mobile </MadCap:conditionalText>text.</p>
+                <p class="Web">Web image<img src="../Resources/Images/01.PNG" /></p>
+                <p class="Tablet">Tablet image <img src="../Resources/Images/02.PNG" /></p>
+                <p class="Mobile">Mobile image <img src="../Resources/Images/03.PNG" /></p>
+                <p> </p>
+            </MadCap:slide>
+            <MadCap:slide class="Web">
+                <h2>Web slide</h2>
+                <p>Web slide Web slide Web slide Web slide Web slide </p>
+                <p>You can place almost any kind of content into a slide, including text, tables, snippets, images, multimedia, and more.</p>
+                <p> </p>
+            </MadCap:slide>
+            <MadCap:slide class="Tablet">
+                <h2>Tablet slide</h2>
+                <p>Tablet slide Tablet slide Tablet slide Tablet slide </p>
+                <p>You can place almost any kind of content into a slide, including text, tables, snippets, images, multimedia, and more.</p>
+            </MadCap:slide>
+            <MadCap:slide class="Mobile">
+                <h2>Mobile slide</h2>
+                <p>Mobile slide Mobile slide Mobile slide Mobile slide </p>
+                <p>You can place almost any kind of content into a slide, including text, tables, snippets, images, multimedia, and more.</p>
+            </MadCap:slide>
+        </MadCap:slideshow>
+        <h3>Tables</h3>
+        <h5 class="Web">Web table</h5>
+        <table style="width: 30%;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;border-collapse: collapse;" class="Web">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Web table 1</td>
+                    <td>Web table 2</td>
+                </tr>
+                <tr>
+                    <td>Web table 3</td>
+                    <td>Web table 4</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 class="Tablet">Tablet table</h5>
+        <table style="border-collapse: collapse;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;width: 30%;" class="Tablet">
+            <col style="width: 213px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Tablet table 1</td>
+                    <td>Tablet table 2</td>
+                </tr>
+                <tr>
+                    <td>Tablet table 3</td>
+                    <td>Tablet table 4</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 class="Mobile">Mobile table</h5>
+        <table style="border-collapse: collapse;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;width: 30%;" class="Mobile">
+            <col style="width: 213px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Mobile table 1</td>
+                    <td>Mobile table 2</td>
+                </tr>
+                <tr>
+                    <td>Mobile table 3</td>
+                    <td>Mobile table 4</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5>Table with different conditions</h5>
+        <table style="width: 100%;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;border-collapse: collapse;">
+            <col class="Web" />
+            <col class="Tablet" />
+            <col class="Mobile" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Conditioned web column</td>
+                    <td>Conditioned tablet column</td>
+                    <td>Conditioned mobile column</td>
+                    <td class="Web">Web conditioned cell</td>
+                </tr>
+                <tr>
+                    <td>Conditioned web column</td>
+                    <td>Conditioned tablet column</td>
+                    <td>Conditioned mobile column</td>
+                    <td class="Tablet">Tablet conditioned cell</td>
+                </tr>
+                <tr>
+                    <td>Conditioned web column</td>
+                    <td>Conditioned tablet column</td>
+                    <td>Conditioned mobile column</td>
+                    <td class="Mobile">Mobile conditioned cell</td>
+                </tr>
+                <tr class="Web">
+                    <td>Conditioned web column / web row</td>
+                    <td>Conditioned web row / tablet column</td>
+                    <td>Conditioned web row / mobile column</td>
+                    <td>Conditioned web row </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Hyperlinks</h3>
+        <p><a href="http://www.yahoo.com/" target="_blank" title="yahoo screen" alt="yahoo screen" class="Web">Web Yahoo link</a> <a href="http://www.yahoo.com/" target="_blank" title="google screen" alt="yahoo scree" class="Tablet">Tablet Google link</a> <a href="http://www.madcapsoftware.com/" target="_blank" title="madcap screen" alt="yahoo scree" class="Mobile">Mobile MadCap link</a></p>
+        <h3>Xrefs</h3>
+        <p> </p>
+        <h3>Glossary term links</h3>
+        <p>
+            <MadCap:glossaryTerm glossTerm="Glossary.Term0" class="Web">My Web Term</MadCap:glossaryTerm> <MadCap:glossaryTerm glossTerm="Glossary.Term1" class="Tablet">My Tablet Term</MadCap:glossaryTerm> <MadCap:glossaryTerm glossTerm="Glossary.Term2" class="Mobile">My Mobile Term</MadCap:glossaryTerm></p>
+        <h3>Variables</h3>
+        <p><MadCap:variable name="Variables.Web" class="Web" /> <MadCap:variable name="Variables.Tablet" class="Tablet" /> <MadCap:variable name="Variables.Mobile" class="Mobile" /></p>
+        <h3>Togglers</h3>
+        <p>
+            <MadCap:toggler targets="webBody1" class="Web">Togger web hotspot-all hotspot conditioned</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="webBody1">toggler web body</p>
+        <p>
+            <MadCap:toggler targets="tabletBody1" class="Tablet">Togger tablet hotspot-all hotspot conditioned</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="tabletBody1">toggler tablet body</p>
+        <p>
+            <MadCap:toggler targets="mobileBody1" class="Mobile">Togger mobile hotspot-all hotspot conditioned</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="mobileBody1">toggler mobile body</p>
+        <p> </p>
+        <p>
+            <MadCap:toggler targets="webBody2">Togger <span class="Web">web</span> <span class="Tablet">tablet</span> <span class="Mobile">mobile</span> hotspot</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="webBody2">toggler <span class="Web">web</span> <span class="Tablet">tablet</span> <span class="Mobile">mobile</span> body</p>
+        <h3>Dropdowns</h3>
+        <h5>Whole dropdown element conditioned:</h5>
+        <MadCap:dropDown class="Web">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Web dropdown hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Web dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="Tablet">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Tablet dropdown hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Tablet dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="Mobile">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Mobile dropdown hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Mobile dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h5>Dropdown head conditioned:</h5>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot class="Web">Web dropdown head</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Web dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot class="Tablet">Tablet dropdown head</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Tablet dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot class="Mobile">Mobile dropdown head</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Mobile dropdown body</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h5>Mutated dropdown:</h5>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>This is the <span class="Web">Web</span> <span class="Tablet">Tablet</span> <span class="Mobile">Mobile</span> Drop-down Hotspot</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>This is the <span class="Web">Web</span> <span class="Tablet">Tablet</span> <span class="Mobile">Mobile</span> Drop-down text</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h3>Expanding text:</h3>
+        <h5>Whole expanding element conditioned:</h5>
+        <p>
+            <MadCap:expanding class="Web">
+                <MadCap:expandingHead>Web expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody>Web expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding class="Tablet">
+                <MadCap:expandingHead>Tablet expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody>Tablet expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding class="Mobile">
+                <MadCap:expandingHead>Mobile expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody>Mobile expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <h5>Mutated expanding:</h5>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead><span class="Web">Web</span> <span class="Tablet">Tablet</span> <span class="Mobile">Mobile</span> expanding hotspot</MadCap:expandingHead>
+                <MadCap:expandingBody><span class="Web">Web</span> <span class="Tablet">Tablet</span> <span class="Mobile">Mobile</span>expanding body</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <h3>Text popups:</h3>
+        <p>
+            <MadCap:popup class="Web">
+                <MadCap:popupHead>Web text popup</MadCap:popupHead>
+                <MadCap:popupBody>Web text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+            <MadCap:popup class="Tablet">
+                <MadCap:popupHead>Tablet text popup</MadCap:popupHead>
+                <MadCap:popupBody>Tablet text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+            <MadCap:popup class="Mobile">
+                <MadCap:popupHead>Mobile text popup</MadCap:popupHead>
+                <MadCap:popupBody>Mobile text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <h5>mutated text popup:</h5>
+        <p>
+            <MadCap:popup>
+                <MadCap:popupHead><span class="Web">Web</span> <span class="Tablet">Tablet</span> <span class="Mobile">Mobile</span> text popup</MadCap:popupHead>
+                <MadCap:popupBody>text popup body.</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <h3>Text Box:</h3>
+        <div style="width: 116px;height: 46px;background-color: #00ffff;border-left-style: solid;border-left-width: 1px;border-left-color: #00ffff;border-right-style: solid;border-right-width: 1px;border-right-color: #00ffff;border-top-style: solid;border-top-width: 1px;border-top-color: #00ffff;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #00ffff;" class="Web">
+            <p>Web text box</p>
+        </div>
+        <div style="width: 116px;height: 46px;border-left-style: solid;border-left-width: 1px;border-left-color: #ff6347;border-right-style: solid;border-right-width: 1px;border-right-color: #ff6347;border-top-style: solid;border-top-width: 1px;border-top-color: #ff6347;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ff6347;background-color: #fa8072;" class="Tablet">
+            <p>Tablet text box</p>
+        </div>
+        <div style="width: 116px;height: 46px;border-left-style: solid;border-left-width: 1px;border-left-color: #ffff00;border-right-style: solid;border-right-width: 1px;border-right-color: #ffff00;border-top-style: solid;border-top-width: 1px;border-top-color: #ffff00;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffff00;background-color: #ffff00;" class="Mobile">
+            <p>Mobile text box</p>
+        </div>
+        <h3>Rule</h3>
+        <h5 class="Web">Web horizontal line below here</h5>
+        <hr class="Web" style="border-width: 3px; border-color:aqua" />
+        <h5 class="Tablet">Tablet horizontal line below here</h5>
+        <hr class="Tablet" style="border-width: 3px; border-color:salmon" />
+        <h5 class="Mobile">Mobile horizontal line below here</h5>
+        <hr class="Mobile" style="border-width: 3px; border-color:yellow" />
+        <h3>Related Topics Control: Web | Tablet | Mobile | All</h3>
+        <p>
+            <MadCap:relatedTopics class="Web"> </MadCap:relatedTopics> <MadCap:relatedTopics class="Tablet"> </MadCap:relatedTopics> <MadCap:relatedTopics class="Mobile"> </MadCap:relatedTopics> <MadCap:relatedTopics> </MadCap:relatedTopics></p>
+        <h3>Concept link: Web | Tablet | Mobile | All</h3>
+        <p>
+            <MadCap:conceptLink term="MobileConcept" class="Web" /> <MadCap:conceptLink term="TabletConcept" class="Tablet" /> <MadCap:conceptLink term="MobileConcept" class="Mobile" /> <MadCap:conceptLink term="WebConcept;TabletConcept;MobileConcept" /></p>
+        <h3>Keyword Link: Web | Tablet | Mobile | All</h3>
+        <p>
+            <MadCap:keywordLink term="WebKW" class="Web" /> <MadCap:keywordLink term="TabletKW" class="Tablet" /> <MadCap:keywordLink term="MobileKW" class="Mobile" /> <MadCap:keywordLink term="WebKW;TabletKW;MobileKW" /></p>
+        <h3>Equations:</h3>
+        <p>
+            <MadCap:equation class="Web">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <mrow>
+                        <msub>
+                            <mi>web equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+            <MadCap:equation class="Tablet">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <mrow>
+                        <msub>
+                            <mi>tablet equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+            <MadCap:equation class="Mobile">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <mrow>
+                        <msub>
+                            <mi>mobile equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+        </p>
+        <h3>Scripts:</h3>
+        <p>
+            <script type="text/javascript" class="Web">/*<![CDATA[*/document.write("web script")
+/*]]>*/</script>
+            <script type="text/javascript" class="Tablet">/*<![CDATA[*/document.write("tablet script")/*]]>*/</script>
+            <script type="text/javascript" class="Mobile">/*<![CDATA[*/document.write("mobile script")/*]]>*/</script>
+        </p>
+        <h3>
+            <MadCap:toggler targets="Proxies">Proxies:</MadCap:toggler>
+        </h3>
+        <div MadCap:targetName="Proxies">
+            <h5>breadcrumb </h5>
+            <h6 class="Web">web</h6>
+            <MadCap:breadcrumbsProxy class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:breadcrumbsProxy class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:breadcrumbsProxy class="Mobile" />
+            <h5>Topic toolbar</h5>
+            <h6 class="Web">Web</h6>
+            <h6 class="Tablet">Tablet</h6>
+            <h6 class="Mobile">Mobile</h6>
+            <h5>TOC </h5>
+            <h6 class="Web">Web</h6>
+            <MadCap:tocProxy class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:tocProxy class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:tocProxy class="Mobile" />
+            <h5>Mini TOC</h5>
+            <h6 class="Web">Web</h6>
+            <MadCap:miniTocProxy class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:miniTocProxy class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:tocProxy class="Mobile" />
+            <h5>Glossary</h5>
+            <h6 class="Web">Web</h6>
+            <MadCap:glossaryProxy class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:glossaryProxy class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:glossaryProxy class="Mobile" />
+            <h5>Concepts</h5>
+            <h6 class="Web">Web</h6>
+            <MadCap:conceptsProxy class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:conceptsProxy class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:conceptsProxy class="Mobile" />
+            <h5>List of </h5>
+            <h6 class="Web">Web</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h1;" class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h2;" class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h3;" class="Mobile" />
+            <h5>Relationship</h5>
+            <h6 class="Web">Web</h6>
+            <MadCap:relationshipsProxy class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:relationshipsProxy class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:relationshipsProxy class="Mobile" />
+            <h5>Menu</h5>
+            <h6 class="Web">Web</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" class="Web" />
+            <h6 class="Tablet">Tablet</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" class="Tablet" />
+            <h6 class="Mobile">Mobile</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" class="Mobile" />
+        </div>
+    </body>
+</html>

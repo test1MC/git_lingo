@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent>
+        <MicroContentPhrase>What are paragraphs?</MicroContentPhrase>
+        <MicroContentPhrase>paragraphs</MicroContentPhrase>
+        <MicroContentPhrase>styles</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>Root linked to topic - Paragraphs </xhtml:h1>
+                    <xhtml:p><xhtml:a xhtml:name="This"></xhtml:a>This is a paragraph styles inline with <xhtml:b>bold</xhtml:b>, <xhtml:i>italic</xhtml:i>, <xhtml:u>underline</xhtml:u>, <xhtml:sup>superscript</xhtml:sup> and <xhtml:sub>subscript</xhtml:sub>.</xhtml:p>
+                    <xhtml:p xhtml:style="font-weight: bold;">Bold paragraph</xhtml:p>
+                    <xhtml:p xhtml:style="font-style: italic;">italic paragraph</xhtml:p>
+                    <xhtml:p xhtml:style="text-decoration: underline;">underlined paragraph</xhtml:p>
+                    <xhtml:p xhtml:style="color: #ff0000;">Red paragraph</xhtml:p>
+                    <xhtml:p xhtml:style="background-color: #ffff00;">Yellow highlighted paragraph</xhtml:p>
+                    <xhtml:p><xhtml:span xhtml:style="color: #ff0000;">Red </xhtml:span><xhtml:span xhtml:style="color: #2e8b57;">Green </xhtml:span><xhtml:span xhtml:style="color: #0000ff;">Blue</xhtml:span>
+                    </xhtml:p>
+                    <xhtml:p><xhtml:span xhtml:style="color: #ff0000; font-weight: bold;">Bold red</xhtml:span>, <xhtml:i xhtml:style="color: #228b22;">Italic Green</xhtml:i>, <xhtml:span xhtml:style="color: #0000ff; text-decoration: underline;">Underlined blue</xhtml:span></xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p xhtml:style="font-family: Calibri;font-size: 14pt;">Calibri font 14px paragraph</xhtml:p>
+                    <xhtml:p>This paragraph has a word with <xhtml:span xhtml:style="font-family: Calibri; font-size: 14pt;">calibri</xhtml:span> font and sized 14 px</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p xhtml:class="bold">Bold paragraph</xhtml:p>
+                    <xhtml:p xhtml:class="italic">italic paragraph</xhtml:p>
+                    <xhtml:p xhtml:class="underline">underlined paragraph</xhtml:p>
+                    <xhtml:p xhtml:class="red">Red paragraph</xhtml:p>
+                    <xhtml:p xhtml:class="yellowHighlight">Yellow highlighted paragraph</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p xhtml:style="text-align: left;">Left aligned </xhtml:p>
+                    <xhtml:p xhtml:style="text-align: center;">Center aligned</xhtml:p>
+                    <xhtml:p xhtml:style="text-align: right;">Right aligned </xhtml:p>
+                    <xhtml:p>Variable <MadCap:variable xhtml:name="Variables.CompanyName" /></xhtml:p>
+                    <xhtml:p>
+                        <MadCap:keyword xhtml:term="Index" />
+                        <MadCap:concept xhtml:term="concept" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>What are togglers?</MicroContentPhrase>
+        <MicroContentPhrase>What are dropdowns?</MicroContentPhrase>
+        <MicroContentPhrase>What are footnotes?</MicroContentPhrase>
+        <MicroContentPhrase>What are text popups?</MicroContentPhrase>
+        <MicroContentPhrase>What is a text box?</MicroContentPhrase>
+        <MicroContentPhrase>What is expanding text?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>root - Togglers, dropdown, expanding, text popup, textbox, footnote</xhtml:h1>
+                    <xhtml:div>
+                        <xhtml:p>
+                            <MadCap:toggler xhtml:targets="01;02;03;04">Toggler head</MadCap:toggler>
+                        </xhtml:p>
+                        <xhtml:p MadCap:targetName="01">This is a paragraph styles inline with <xhtml:b>bold</xhtml:b>, <xhtml:i>italic</xhtml:i>, <xhtml:u>underline</xhtml:u>, <xhtml:sup>superscript</xhtml:sup> and <xhtml:sub>subscript</xhtml:sub>.</xhtml:p>
+                        <xhtml:table xhtml:style="border-left-style: solid;border-left-width: 1px;border-left-color: #8b0000;border-right-style: solid;border-right-width: 1px;border-right-color: #8b0000;border-top-style: solid;border-top-width: 1px;border-top-color: #8b0000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #8b0000;border-collapse: collapse;" MadCap:targetName="03">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>one</xhtml:td>
+                                    <xhtml:td>two</xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr>
+                                    <xhtml:td>three</xhtml:td>
+                                    <xhtml:td>four</xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                        <MadCap:dropDown MadCap:targetName="04">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Dropdown text</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <xhtml:p>Here's the dropdown text body. It all belongs under a toggler Also, an <MadCap:expanding><MadCap:expandingHead>expanding text hotspot</MadCap:expandingHead><MadCap:expandingBody> here and here's the body of the expanding text.&#160;</MadCap:expandingBody></MadCap:expanding></xhtml:p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </xhtml:div>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:h3>Rule</xhtml:h3>
+                    <xhtml:hr />
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <MadCap:dropDown>
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot>Drop down text hotspot</MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <xhtml:p>Gain insight into how your customers find and interact with your content with advanced analytics and reporting. Gather data, such as topic views, search keywords, search terms that yield no results, so you can measure and improve overall Help center performance. <MadCap:popup><MadCap:popupHead>Text popup</MadCap:popupHead><MadCap:popupBody>Here's the text popup content. How should it appear in a micro content response? Should just expand I suppose. </MadCap:popupBody></MadCap:popup></xhtml:p>
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot>Sub Dropdown hotspot</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <xhtml:p>Here's the dropdown text body. It all belongs under a toggler Also, an <MadCap:expanding><MadCap:expandingHead>expanding text hotspot</MadCap:expandingHead><MadCap:expandingBody> here and here's the body of the expanding text.&#160;</MadCap:expandingBody></MadCap:expanding></xhtml:p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead>Expanding hotspot</MadCap:expandingHead>
+                            <MadCap:expandingBody> <MadCap:popup><MadCap:popupHead>Text popup</MadCap:popupHead><MadCap:popupBody>Here's the text popup content. How should it appear in a micro content response? Should just expand I suppose. </MadCap:popupBody></MadCap:popup> Gain insight into how your customers find and interact with your content with advanced analytics and reporting. Gather data, such as topic views, search keywords, search terms that yield no results, so you can measure and improve overall Help center performance. <MadCap:expanding><MadCap:expandingHead>expanding text hotspot</MadCap:expandingHead><MadCap:expandingBody> here and here's the body of the expanding text.&#160;</MadCap:expandingBody></MadCap:expanding></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <MadCap:popup>
+                            <MadCap:popupHead>Text popup</MadCap:popupHead>
+                            <MadCap:popupBody>Here's the text popup content. How should it appear in a micro content response? Should just expand I suppose. </MadCap:popupBody>
+                        </MadCap:popup>
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:div xhtml:style="width: 200px; height: 200px;" xhtml:class="div">
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>Text box in here. How should it look in a respose?&#160;</xhtml:p>
+                        <xhtml:p>I'm not sure</xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>Let's see how it's gonna render. </xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p>Fin, the end. Bye!</xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:div>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>Footnote </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>What are lists?</MicroContentPhrase>
+        <MicroContentPhrase>list</MicroContentPhrase>
+        <MicroContentPhrase>list types</MicroContentPhrase>
+        <MicroContentPhrase>lists</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>root - lists<MadCap:keyword xhtml:term="lists" /><MadCap:concept xhtml:term="lists" /></xhtml:h1>
+                    <xhtml:h2>Bullet list:</xhtml:h2>
+                    <xhtml:ul>
+                        <xhtml:li>one</xhtml:li>
+                        <xhtml:li>two</xhtml:li>
+                        <xhtml:li>three</xhtml:li>
+                        <xhtml:li>four</xhtml:li>
+                    </xhtml:ul>
+                    <xhtml:h3>Circle bullet list:</xhtml:h3>
+                    <xhtml:ul xhtml:style="list-style-type: circle;">
+                        <xhtml:li>one</xhtml:li>
+                        <xhtml:li>two</xhtml:li>
+                        <xhtml:li>three</xhtml:li>
+                        <xhtml:li>four</xhtml:li>
+                    </xhtml:ul>
+                    <xhtml:h4>square bullet list:</xhtml:h4>
+                    <xhtml:ul xhtml:style="list-style-type: square;">
+                        <xhtml:li>one</xhtml:li>
+                        <xhtml:li>two</xhtml:li>
+                        <xhtml:li>three</xhtml:li>
+                        <xhtml:li>four</xhtml:li>
+                    </xhtml:ul>
+                    <xhtml:h5>Numbered list:</xhtml:h5>
+                    <xhtml:ol>
+                        <xhtml:li>one</xhtml:li>
+                        <xhtml:li>two</xhtml:li>
+                        <xhtml:li>three</xhtml:li>
+                        <xhtml:li>four</xhtml:li>
+                    </xhtml:ol>
+                    <xhtml:h6>Mixed list:</xhtml:h6>
+                    <xhtml:ol xhtml:style="list-style-type: lower-alpha;">
+                        <xhtml:li>One<xhtml:ol xhtml:style="list-style-type: upper-alpha;"><xhtml:li>One-a<xhtml:ol xhtml:style="list-style-type: lower-roman;"><xhtml:li>One-c<xhtml:ol xhtml:style="list-style-type: upper-roman;"><xhtml:li>One-d</xhtml:li></xhtml:ol></xhtml:li></xhtml:ol></xhtml:li></xhtml:ol></xhtml:li>
+                    </xhtml:ol><xhtml:pre xml:space="preserve">Custom list:</xhtml:pre>
+                    <xhtml:ul xhtml:style="list-style-type: lower-alpha;" xhtml:class="customList">
+                        <xhtml:li>One<xhtml:ul xhtml:style="list-style-type: upper-alpha;"><xhtml:li>One-a<xhtml:ul xhtml:style="list-style-type: lower-roman;"><xhtml:li>One-c<xhtml:ul xhtml:style="list-style-type: upper-roman;"><xhtml:li>One-d</xhtml:li></xhtml:ul></xhtml:li></xhtml:ul></xhtml:li></xhtml:ul></xhtml:li>
+                    </xhtml:ul>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>砻קยด31ตว融<MadCap:footnote style="mc-footnote-position: topic;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด9ตว融</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด10ตว融</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด11ตว融</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;">砻קยด12ตว融</MadCap:footnote></h1>
+        <h3>砻קยด32ตว融</h3>
+        <p>砻קยด33ตว融</p>
+        <p>&#160;</p>
+        <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด34ตว融</p>
+        <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด35ตว融</p>
+        <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด36ตว融</p>
+        <p>&#160;</p>
+        <h3>砻קยด37ตว融</h3>
+        <MadCap:snippetBlock src="../Resources/Snippets/WebSnippet.flsnp" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+        <MadCap:snippetBlock src="../Resources/Snippets/TabletSnippet.flsnp" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+        <MadCap:snippetBlock src="../Resources/Snippets/MobileSnippet.flsnp" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+        <p>&#160;</p>
+        <h3>砻קยด38ตว融</h3>
+        <MadCap:snippetBlock src="../Resources/Snippets/webTabletMobile.flsnp" />
+        <h3>砻קยด39ตว融</h3>
+        <div class="NewRowClass1">
+            <div>
+                <p>
+                    <object title="砻קยด13ตว融" src="https://youtu.be/3qcW0yuqdP0" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                    </object>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <object title="砻קยด14ตว融" src="https://youtu.be/FeLvR7ljJ0k" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                    </object>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <object title="砻קยด15ตว融" src="https://youtu.be/KsT7154Q9hs" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                    </object>
+                </p>
+            </div>
+        </div>
+        <h3>砻קยด40ตว融</h3>
+        <div class="NewRowClass1">
+            <div>
+                <p>
+                    <MadCap:qrCode title="砻קยด16ตว融" alt="砻קยด17ตว融" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด28ตว融</MadCap:qrCode>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <MadCap:qrCode title="砻קยด18ตว融" alt="砻קยด19ตว融" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด29ตว融</MadCap:qrCode>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <MadCap:qrCode title="砻קยด20ตว融" alt="砻קยด21ตว融" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด30ตว融</MadCap:qrCode>
+                </p>
+            </div>
+        </div>
+        <h3>砻קยด41ตว融</h3>
+        <MadCap:slideshow>
+            <MadCap:slide>
+                <h2>砻קยด42ตว融</h2>
+                <p>砻קยด43ตว融</p>
+                <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด44ตว融<img src="../Resources/Images/01.PNG" /></p>
+                <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด45ตว融<img src="../Resources/Images/02.PNG" /></p>
+                <p MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด46ตว融<img src="../Resources/Images/03.PNG" /></p>
+                <p>&#160;</p>
+            </MadCap:slide>
+            <MadCap:slide MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <h2>砻קยด47ตว融</h2>
+                <p>砻קยด48ตว融</p>
+                <p>砻קยด49ตว融</p>
+                <p>&#160;</p>
+            </MadCap:slide>
+            <MadCap:slide MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <h2>砻קยด50ตว融</h2>
+                <p>砻קยด51ตว融</p>
+                <p>砻קยด52ตว融</p>
+            </MadCap:slide>
+            <MadCap:slide MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <h2>砻קยด53ตว融</h2>
+                <p>砻קยด54ตว融</p>
+                <p>砻קยด55ตว融</p>
+            </MadCap:slide>
+        </MadCap:slideshow>
+        <h3>砻קยด56ตว融</h3>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด57ตว融</h5>
+        <table style="width: 30%;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;border-collapse: collapse;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>砻קยด58ตว融</td>
+                    <td>砻קยด59ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด60ตว融</td>
+                    <td>砻קยด61ตว融</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด62ตว融</h5>
+        <table style="border-collapse: collapse;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;width: 30%;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+            <col style="width: 213px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>砻קยด63ตว融</td>
+                    <td>砻קยด64ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด65ตว融</td>
+                    <td>砻קยด66ตว融</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด67ตว融</h5>
+        <table style="border-collapse: collapse;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;width: 30%;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+            <col style="width: 213px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>砻קยด68ตว融</td>
+                    <td>砻קยด69ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด70ตว融</td>
+                    <td>砻קยด71ตว融</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5>砻קยด72ตว融</h5>
+        <table style="width: 100%;border-left-style: solid;border-left-width: 1px;border-left-color: #696969;border-right-style: solid;border-right-width: 1px;border-right-color: #696969;border-top-style: solid;border-top-width: 1px;border-top-color: #696969;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #696969;border-collapse: collapse;">
+            <col MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <col MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <col MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <col />
+            <tbody>
+                <tr>
+                    <td MadCap:conditions="">砻קยด73ตว融</td>
+                    <td MadCap:conditions="">砻קยด74ตว融</td>
+                    <td MadCap:conditions="">砻קยด75ตว融</td>
+                    <td MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด76ตว融</td>
+                </tr>
+                <tr>
+                    <td MadCap:conditions="">砻קยด77ตว融</td>
+                    <td MadCap:conditions="">砻קยด78ตว融</td>
+                    <td MadCap:conditions="">砻קยด79ตว融</td>
+                    <td MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด80ตว融</td>
+                </tr>
+                <tr>
+                    <td MadCap:conditions="">砻קยด81ตว融</td>
+                    <td MadCap:conditions="">砻קยด82ตว融</td>
+                    <td MadCap:conditions="">砻קยด83ตว融</td>
+                    <td MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด84ตว融</td>
+                </tr>
+                <tr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                    <td MadCap:conditions="">砻קยด85ตว融</td>
+                    <td MadCap:conditions="">砻קยด86ตว融</td>
+                    <td MadCap:conditions="">砻קยด87ตว融</td>
+                    <td MadCap:conditions="">砻קยด88ตว融</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>砻קยด89ตว融</h3>
+        <p>砻קยด90ตว融</p>
+        <h3>砻קยด91ตว融</h3>
+        <p>&#160;</p>
+        <h3>砻קยด92ตว融</h3>
+        <p>砻קยด93ตว融</p>
+        <h3>砻קยด94ตว融</h3>
+        <p>砻קยด95ตว融</p>
+        <h3>砻קยด96ตว融</h3>
+        <p><MadCap:toggler targets="webBody1" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด97ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="webBody1">砻קยด98ตว融</p>
+        <p><MadCap:toggler targets="tabletBody1" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด99ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="tabletBody1">砻קยด100ตว融</p>
+        <p><MadCap:toggler targets="mobileBody1" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด101ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="mobileBody1">砻קยด102ตว融</p>
+        <p>&#160;</p>
+        <p><MadCap:toggler targets="webBody2">砻קยด103ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="webBody2">砻קยด104ตว融</p>
+        <h3>砻קยด105ตว融</h3>
+        <h5>砻קยด106ตว融</h5>
+        <MadCap:dropDown MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด107ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด108ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด109ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด110ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด111ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด112ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h5>砻קยด113ตว融</h5>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด114ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด115ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด116ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด117ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด118ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด119ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h5>砻קยด120ตว融</h5>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด121ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด122ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h3>砻קยด123ตว融</h3>
+        <h5>砻קยด124ตว融</h5>
+        <p>
+            <MadCap:expanding MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <MadCap:expandingHead>砻קยด125ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด126ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <MadCap:expandingHead>砻קยด127ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด128ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <MadCap:expandingHead>砻קยด129ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด130ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <h5>砻קยด131ตว融</h5>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead>砻קยด132ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด133ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <h3>砻קยด134ตว融</h3>
+        <p>
+            <MadCap:popup MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <MadCap:popupHead>砻קยด135ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด136ตว融</MadCap:popupBody>
+            </MadCap:popup>
+            <MadCap:popup MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <MadCap:popupHead>砻קยด137ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด138ตว融</MadCap:popupBody>
+            </MadCap:popup>
+            <MadCap:popup MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <MadCap:popupHead>砻קยด139ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด140ตว融</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <h5>砻קยด141ตว融</h5>
+        <p>
+            <MadCap:popup>
+                <MadCap:popupHead>砻קยด142ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด143ตว融</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <h3>砻קยด144ตว融</h3>
+        <div style="width: 116px;height: 46px;background-color: #00ffff;border-left-style: solid;border-left-width: 1px;border-left-color: #00ffff;border-right-style: solid;border-right-width: 1px;border-right-color: #00ffff;border-top-style: solid;border-top-width: 1px;border-top-color: #00ffff;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #00ffff;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+            <p>砻קยด145ตว融</p>
+        </div>
+        <div style="width: 116px;height: 46px;border-left-style: solid;border-left-width: 1px;border-left-color: #ff6347;border-right-style: solid;border-right-width: 1px;border-right-color: #ff6347;border-top-style: solid;border-top-width: 1px;border-top-color: #ff6347;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ff6347;background-color: #fa8072;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+            <p>砻קยด146ตว融</p>
+        </div>
+        <div style="width: 116px;height: 46px;border-left-style: solid;border-left-width: 1px;border-left-color: #ffff00;border-right-style: solid;border-right-width: 1px;border-right-color: #ffff00;border-top-style: solid;border-top-width: 1px;border-top-color: #ffff00;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffff00;background-color: #ffff00;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+            <p>砻קยด147ตว融</p>
+        </div>
+        <h3>砻קยด148ตว融</h3>
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด149ตว融</h5>
+        <hr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" style="border-width: 3px; border-color:aqua" />
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด150ตว融</h5>
+        <hr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" style="border-width: 3px; border-color:salmon" />
+        <h5 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด151ตว融</h5>
+        <hr MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" style="border-width: 3px; border-color:yellow" />
+        <h3>砻קยด152ตว融</h3>
+        <p>
+            <MadCap:relatedTopics MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">&#160;</MadCap:relatedTopics> <MadCap:relatedTopics MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">&#160;</MadCap:relatedTopics> <MadCap:relatedTopics MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">&#160;</MadCap:relatedTopics> <MadCap:relatedTopics>&#160;</MadCap:relatedTopics></p>
+        <h3>砻קยด153ตว融</h3>
+        <p>
+            <MadCap:conceptLink term="MobileConcept" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" /> <MadCap:conceptLink term="TabletConcept" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" /> <MadCap:conceptLink term="MobileConcept" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" /> <MadCap:conceptLink term="WebConcept;TabletConcept;MobileConcept" /></p>
+        <h3>砻קยด154ตว融</h3>
+        <p>
+            <MadCap:keywordLink term="WebKW" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" /> <MadCap:keywordLink term="TabletKW" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" /> <MadCap:keywordLink term="MobileKW" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" /> <MadCap:keywordLink term="WebKW;TabletKW;MobileKW" /></p>
+        <h3>砻קยด155ตว融</h3>
+        <p>
+            <MadCap:equation MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">
+                <math>
+                    <mrow>
+                        <msub>
+                            <mi>web equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+            <MadCap:equation MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">
+                <math>
+                    <mrow>
+                        <msub>
+                            <mi>tablet equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+            <MadCap:equation MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">
+                <math>
+                    <mrow>
+                        <msub>
+                            <mi>mobile equation</mi>
+                        </msub>
+                    </mrow>
+                </math>
+            </MadCap:equation>
+        </p>
+        <h3>砻קยด156ตว融</h3>
+        <p>
+            <script type="text/javascript" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">/*<![CDATA[*/document.write("web script")
+/*]]>*/</script>
+            <script type="text/javascript" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">/*<![CDATA[*/document.write("tablet script")/*]]>*/</script>
+            <script type="text/javascript" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">/*<![CDATA[*/document.write("mobile script")/*]]>*/</script>
+        </p>
+        <h3><MadCap:toggler targets="Proxies">砻קยด157ตว融</MadCap:toggler></h3>
+        <div MadCap:targetName="Proxies">
+            <h5>砻קยด158ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด159ตว融</h6>
+            <MadCap:breadcrumbsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด160ตว融</h6>
+            <MadCap:breadcrumbsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด161ตว融</h6>
+            <MadCap:breadcrumbsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>砻קยด162ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด163ตว融</h6>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด164ตว融</h6>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด165ตว融</h6>
+            <h5>砻קยด166ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด167ตว融</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด168ตว融</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด169ตว融</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>砻קยด170ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด171ตว融</h6>
+            <MadCap:miniTocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด172ตว融</h6>
+            <MadCap:miniTocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด173ตว融</h6>
+            <MadCap:tocProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>砻קยด174ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด175ตว融</h6>
+            <MadCap:glossaryProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด176ตว融</h6>
+            <MadCap:glossaryProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด177ตว融</h6>
+            <MadCap:glossaryProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>砻קยด178ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด179ตว融</h6>
+            <MadCap:conceptsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด180ตว融</h6>
+            <MadCap:conceptsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด181ตว融</h6>
+            <MadCap:conceptsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>砻קยด182ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด183ตว融</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h1;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด184ตว融</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h2;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด185ตว融</h6>
+            <MadCap:listOfProxy style="mc-list-of-tag: h3;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>砻קยด186ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด187ตว融</h6>
+            <MadCap:relationshipsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด188ตว融</h6>
+            <MadCap:relationshipsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด189ตว融</h6>
+            <MadCap:relationshipsProxy MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+            <h5>砻קยด190ตว融</h5>
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web">砻קยด191ตว融</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet">砻קยด192ตว融</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+            <h6 MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile">砻קยด193ตว融</h6>
+            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+        </div>
+    </body>
+</html>

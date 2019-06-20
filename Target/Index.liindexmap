@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Index</Key>
+  <OldValue>Index</OldValue>
+  <NewValue>Index</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>MobileKW</Key>
+  <OldValue>MobileKW</OldValue>
+  <NewValue>MobileKW</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>TabletKW</Key>
+  <OldValue>TabletKW</OldValue>
+  <NewValue>TabletKW</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>WebKW</Key>
+  <OldValue>WebKW</OldValue>
+  <NewValue>WebKW</NewValue>
+</Entry>
+</StringMap>

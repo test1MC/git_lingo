@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry glossTerm="Glossary.Term0" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>My Web Term</Term>
+        </Terms>
+        <Definition Link="">My definition</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term1" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>My Tablet Term</Term>
+        </Terms>
+        <Definition Link="">My definition</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term2" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>My Mobile Term</Term>
+        </Terms>
+        <Definition Link="">My definition</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

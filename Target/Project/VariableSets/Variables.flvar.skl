@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">砻קยด1ตว融</Variable>
+    <Variable Comment="" Name="PhoneNumber">砻קยด2ตว融</Variable>
+    <Variable Name="Web" Comment="" EvaluatedDefinition="Web variable">砻קยด3ตว融</Variable>
+    <Variable Name="Tablet" Comment="" EvaluatedDefinition="Tablet variable">砻קยด4ตว融</Variable>
+    <Variable Name="Mobile" Comment="" EvaluatedDefinition="Mobile variable">砻קยด5ตว融</Variable>
+</CatapultVariableSet>

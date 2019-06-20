@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <div class="NewRowClass1">
+            <div>
+                <p>
+                    <img src="../Images/01.PNG" title="砻קยด1ตว融" alt="砻קยด2ตว融" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+                </p>
+            </div>
+            <div>
+                <p>
+                    <img src="../Images/02.PNG" title="砻קยด3ตว融" alt="砻קยด4ตว融" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+                </p>
+            </div>
+            <div>
+                <p>
+                    <img src="../Images/03.PNG" title="砻קยด5ตว融" alt="砻קยด6ตว融" MadCap:conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
